@@ -1,0 +1,73 @@
+
+header {
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #fff;
+    text-align: center;
+    text-decoration:wavy;
+    text-shadow: #fff;
+    font-size:50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+}
+h3{
+    color:#fff;
+    text-decoration:solid;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 80;
+}
+#h4{
+    color:#fff;
+    text-decoration-style:wavy;
+    text-decoration: underline;
+    font-size:20px;
+    font-weight:100 ;
+}
+.des p{
+    text-decoration:wavy;
+    text-align:center;
+    text-decoration-color: #413368;
+}
+
+.con p{
+    text-align:initial;
+    text-decoration: double;
+    text-decoration-color: #797676;
+    font-size: 20px;
+    font-weight:100;
+    font-family:serif;
+
+}
+
+}
+
+.member {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.member img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+

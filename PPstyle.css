@@ -1,0 +1,19 @@
+.policy
+{
+        width:80%;
+        margin:auto;
+        text-align: left;
+        color: white;
+        padding-top: 50px;
+        font-size: larger;
+}
+
+h1
+{
+    text-align: center;
+}
+
+.policy h3
+{
+    color: red;
+}

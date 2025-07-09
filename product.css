@@ -1,0 +1,203 @@
+.row
+{
+    margin-top: 5%;
+    display:flex;
+    justify-content: space-between;
+}
+
+/* life insurance category */
+
+.life
+{
+    width:80%;
+    margin:auto;
+    text-align: left;
+    color: white;
+    padding-top: 50px;
+}
+
+.container
+{
+    background-color:rgb(91, 87, 87); /* Set the background color to red */
+    color: white; /* Set the text color to white */
+    padding: 5px; /* Add some padding inside the container */
+    text-align: left;
+    font-size: 20px;
+}
+
+.life-col
+{
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 1%;
+    text-align: left;
+}
+
+.life-col img
+{
+    width:100%;
+    border-radius: 10%;
+}
+
+.life-col h3
+{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.life-col:hover
+{
+    box-shadow: 0 0 20px 0px rgba(255, 255, 255, 0.2);
+    cursor: pointer;
+}
+
+/* Health Insurance Category */
+
+.Health
+{
+    width:80%;
+    margin:auto;
+    text-align: left;
+    color: white;
+    padding-top: 50px;
+}
+
+.container1
+{
+    background-color:rgb(91, 87, 87); /* Set the background color to red */
+    color: white; /* Set the text color to white */
+    padding: 5px; /* Add some padding inside the container */
+    text-align: left;
+    font-size: 20px;
+}
+
+.health-col
+{
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 1%;
+    text-align: left;
+}
+
+.health-col img
+{
+    width:100%;
+    border-radius: 10%;
+}
+
+.health-col h3
+{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.health-col:hover
+{
+    box-shadow: 0 0 20px 0px rgba(255, 255, 255, 0.2);
+    cursor: pointer;
+}
+
+/* Property Insurance Category */
+
+
+.Property
+{
+    width:80%;
+    margin:auto;
+    text-align: left;
+    color: white;
+    padding-top: 50px;
+}
+
+.container2
+{
+    background-color:rgb(91, 87, 87); /* Set the background color to red */
+    color: white; /* Set the text color to white */
+    padding: 5px; /* Add some padding inside the container */
+    text-align: left;
+    font-size: 20px;
+}
+
+.property-col
+{
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 1%;
+    text-align: left;
+}
+
+.property-col img
+{
+    width:100%;
+    border-radius: 10%;
+}
+
+.property-col h3
+{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.property-col:hover
+{
+    box-shadow: 0 0 20px 0px rgba(255, 255, 255, 0.2);
+    cursor: pointer;
+}
+
+/* Other Insurance Category */
+
+.Other
+{
+    width:80%;
+    margin:auto;
+    text-align: left;
+    color: white;
+    padding-top: 50px;
+}
+
+.container3
+{
+    background-color:rgb(91, 87, 87); /* Set the background color to red */
+    color: white; /* Set the text color to white */
+    padding: 5px; /* Add some padding inside the container */
+    text-align: left;
+    font-size: 20px;
+}
+
+.other-col
+{
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 12%;
+    text-align: left;
+}
+
+.other-col img
+{
+    width:100%;
+    border-radius: 10%;
+}
+
+.other-col h3
+{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.other-col:hover
+{
+    box-shadow: 0 0 20px 0px rgba(255, 255, 255, 0.2);
+    cursor: pointer;
+}
